@@ -1,0 +1,8 @@
+.vscode/
+static/
+__pycache__/
+*.pyc
+*.pyo
+migrations
+images
+mini_chat/app_settings.py
